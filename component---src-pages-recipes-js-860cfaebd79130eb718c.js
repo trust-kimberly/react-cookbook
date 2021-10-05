@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcookbook=self.webpackChunkcookbook||[]).push([[878],{9344:function(n,t,u){var e=u(7294),o=u(7918);t.Z=function(){return(0,o.tZ)(e.Fragment,null,(0,o.tZ)("h1",null,"Recipes"))}},1521:function(n,t,u){u.r(t);var e=u(7294),o=u(9344),l=u(7918);t.default=function(){return(0,l.tZ)(e.Fragment,null,(0,l.tZ)(o.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-recipes-js-860cfaebd79130eb718c.js.map

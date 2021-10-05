@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcookbook=self.webpackChunkcookbook||[]).push([[682],{8548:function(n,t,u){u.r(t),u.d(t,{default:function(){return r}});var o=u(7294),e=u(7918),l=function(){return(0,e.tZ)(o.Fragment,null,(0,e.tZ)("h1",null,"About"))},r=function(){return(0,e.tZ)(o.Fragment,null,(0,e.tZ)(l,null))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-36deae50e44863bd2f78.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcookbook=self.webpackChunkcookbook||[]).push([[501],{7341:function(n,t,u){u.r(t),u.d(t,{default:function(){return r}});var o=u(7294),e=u(7918),l=function(){return(0,e.tZ)(o.Fragment,null,(0,e.tZ)("h1",null,"Contact"))},r=function(){return(0,e.tZ)(o.Fragment,null,(0,e.tZ)(l,null))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-5581b469a0376e4c5ab7.js.map
